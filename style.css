@@ -1,0 +1,28 @@
+/* Use a CSS selector to apply style(s) to at least one HTML tag. */
+h1 {
+    color: blue;
+}
+
+/* Create at least one class, apply it to at least two elements, and style it. */
+.header, .footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Create at least one id, apply it to an element, and style it. 
+   (Note: No ID was created as it wasn't applied in the HTML example above.) */
+
+/* Use <div> to create at least two sections of content on the page. 
+   (This is done in the HTML with .header, .content, and .footer) */
+
+/* Use a CSS selector to change the color of <a> when you hover the cursor over it. */
+a.external-link:hover {
+    color: green;
+}
+
+/* Change at least two box model properties of any tag, class, or id. */
+.content {
+    padding: 20px;
+    margin: 10px;
+}
